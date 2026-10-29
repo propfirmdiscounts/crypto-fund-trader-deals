@@ -1,0 +1,8 @@
+# Crypto Fund Trader Discount Codes
+
+This dataset tracks historical deal observations for Crypto Fund Trader from PropFirmDiscount.com.
+
+Standing exclusive discount code: platinum5 (5%)
+Works any time on all Crypto Fund Trader challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
