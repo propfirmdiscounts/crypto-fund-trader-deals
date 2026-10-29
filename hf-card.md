@@ -1,5 +1,10 @@
 ---
 license: other
+configs:
+- config_name: crypto-fund-trader-deals
+  data_files:
+  - split: data
+    path: datasets/crypto-fund-trader-deals.json
 tags:
   - discount-codes
   - prop-firm
@@ -71,7 +76,7 @@ This repository tracks all historical deals for **Crypto Fund Trader** published
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T09:04:40Z (auto, hourly)
+Last synced: 2026-10-29T12:46:16Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
