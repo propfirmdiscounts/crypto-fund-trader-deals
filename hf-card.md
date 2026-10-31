@@ -62,24 +62,24 @@ Total deals tracked: **6**
 
 ### 2026 (4 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-09-15 | 22% Reduction on 1-Phase and 2-Phase Evaluations | 22% off | Ended | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/) |
-| 2026-08-26 | 15% Off All 1-Phase and 2-Phase Evaluation Accounts | 15% off | Ended | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-15-off-evaluations/) |
-| 2026-04-30 | 20% Off Challenge Purchases and 50 Account Giveaway Pool | 20% off | Ended | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-20-off-mothers-day/) |
-| 2026-02-09 | Buy One Gift One Trading Challenge Promo | Buy 1 Get 1 | Ended | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-valentine-buy-one-gift-one/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-09-15 | 22% Reduction on 1-Phase and 2-Phase Evaluations | 22% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/) |
+| 2026-08-26 | 15% Off All 1-Phase and 2-Phase Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-15-off-evaluations/) |
+| 2026-04-30 | 20% Off Challenge Purchases and 50 Account Giveaway Pool | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-20-off-mothers-day/) |
+| 2026-02-09 | Buy One Gift One Trading Challenge Promo | Buy 1 Get 1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-valentine-buy-one-gift-one/) |
 
 ### 2025 (1 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2025-12-13 | Christmas Deal: 20% Off Challenge Pricing | 20% off | Ended | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-christmas-20-off/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2025-12-13 | Christmas Deal: 20% Off Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-christmas-20-off/) |
 
 ### 2024 (1 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2024-11-06 | Coupon -10% for Crypto Fund Trader | 10% off | Ended | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/coupon-10-for-crypto-fund-trader/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2024-11-06 | Coupon -10% for Crypto Fund Trader | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/coupon-10-for-crypto-fund-trader/) |
 
 ---
 
@@ -106,6 +106,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
