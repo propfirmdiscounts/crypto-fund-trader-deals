@@ -1,45 +1,62 @@
 ---
 license: other
+pretty_name: Crypto Fund Trader Discount Code
 configs:
 - config_name: crypto-fund-trader-deals
   data_files:
   - split: data
     path: datasets/crypto-fund-trader-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - crypto-fund-trader
 ---
 
-# Crypto Fund Trader - Discount Codes & Deal History
+# Crypto Fund Trader Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-09-15, the verified Crypto Fund Trader discount code is **platinum5** — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
+- Code: platinum5
+- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-09-15
+- Trustpilot: 4.2/5 (1109 reviews)
+- Activate: https://propfirmdiscount.com/go/cryptofundtrader
+- Firm page: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-**Verified exclusive discount code:** platinum5 (works any time; live rate always on prop firm page)
+## Current Crypto Fund Trader deal: 22% Reduction on 1-Phase and 2-Phase Evaluations
 
-Use discount code **platinum5** to get **5% off** on Crypto Fund Trader challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Crypto Fund Trader evaluation accounts.
+- Published: 2026-09-15
+- Offer ends: Ended
+- Offer: 22% off
+- Scope: 1-Phase, 2-Phase
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/
+
+## Crypto Fund Trader discount code FAQ
+
+**What is the Crypto Fund Trader discount code?**
+
+platinum5. It is verified by PropFirmDiscount.com and takes up to 5% off Crypto Fund Trader challenges and accounts.
+
+**Does the Crypto Fund Trader discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Crypto Fund Trader deal?**
+
+**22% Reduction on 1-Phase and 2-Phase Evaluations** — published 2026-09-15. Offer ends: Ended. The offer is 22% off.
 
 ---
 
-## Latest Deal
-
-### Crypto Fund Trader - 22% Reduction on 1-Phase and 2-Phase Evaluations
-
-**Published:** 2026-09-15  
-**Offer ends:** Ended  
-**Discount:** 22% off  
-**Scope:** 1-Phase, 2-Phase  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **6**
 
@@ -66,19 +83,20 @@ Total deals tracked: **6**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Crypto Fund Trader** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Crypto Fund Trader** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/crypto-fund-trader/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
