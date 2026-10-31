@@ -47,14 +47,14 @@ Total deals tracked: **6**
 |---|---|---|---|---|---|
 | 2026-09-15 | 22% Reduction on 1-Phase and 2-Phase Evaluations | 22% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/) |
 | 2026-08-26 | 15% Off All 1-Phase and 2-Phase Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-15-off-evaluations/) |
-| 2026-04-30 | 20% Off Challenge Purchases and 50 Account Giveaway Pool | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-20-off-mothers-day/) |
-| 2026-02-09 | Buy One Gift One Trading Challenge Promo | Buy 1 Get 1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-valentine-buy-one-gift-one/) |
+| 2026-04-30 | 20% Off Challenge Purchases and 50 Account Giveaway Pool | 20% off | Ended | Mother's Day | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-20-off-mothers-day/) |
+| 2026-02-09 | Buy One Gift One Trading Challenge Promo | Buy 1 Get 1 | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-valentine-buy-one-gift-one/) |
 
 ### 2025 (1 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-13 | Christmas Deal: 20% Off Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-christmas-20-off/) |
+| 2025-12-13 | Christmas Deal: 20% Off Challenge Pricing | 20% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-christmas-20-off/) |
 
 ### 2024 (1 deals)
 
