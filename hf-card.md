@@ -17,7 +17,7 @@ tags:
   - crypto-fund-trader
 ---
 
-# Crypto Fund Trader Discount Code
+# Crypto Fund Trader - Discount Codes & Deal History
 
 As of 2026-09-15, the verified Crypto Fund Trader discount code is platinum5 — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
