@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: crypto-fund-trader-discount-codes
+  HF_NAMESPACE: propfirmdiscount
+  HF_REPO_NAME: crypto-fund-trader-deals
   FIRM_SLUG: crypto-fund-trader
   DEALSTORE_ID: 21
   FIRM_NAME: Crypto Fund Trader
