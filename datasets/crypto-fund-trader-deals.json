@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13230,
+    "title": "25% Off New 1-Phase Challenge",
+    "offer_type": "coupon",
+    "discount_value": "25%",
+    "scope": [
+      "1-Phase Challenges"
+    ],
+    "date_published": "2026-11-14",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-14",
+    "post_url": "https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/",
+    "prop_firm": "Crypto Fund Trader",
+    "prop_firm_slug": "crypto-fund-trader",
+    "standing_code": "platinum5",
+    "standing_discount": "5%",
+    "activation_link": "https://propfirmdiscount.com/go/cryptofundtrader",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/crypto-fund-trader/"
+  },
+  {
     "deal_id": 12791,
     "title": "22% Reduction on 1-Phase and 2-Phase Evaluations",
     "offer_type": "coupon",
