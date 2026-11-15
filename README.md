@@ -7,10 +7,11 @@ As of 2026-11, the verified Crypto Fund Trader discount code is platinum5 — 5%
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-14
 - Trustpilot: 4.2/5 (1112 reviews)
-- Activate: https://propfirmdiscount.com/go/cryptofundtrader
-- Firm page: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- GitHub repository: [https://github.com/propfirmdiscounts/crypto-fund-trader-deals](https://github.com/propfirmdiscounts/crypto-fund-trader-deals)
+- Activate: [https://propfirmdiscount.com/go/cryptofundtrader](https://propfirmdiscount.com/go/cryptofundtrader)
+- Firm page: [https://propfirmdiscount.com/prop-firm/crypto-fund-trader/](https://propfirmdiscount.com/prop-firm/crypto-fund-trader/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Crypto Fund Trader deal: 25% Off New 1-Phase Challenge
 
@@ -19,7 +20,7 @@ As of 2026-11, the verified Crypto Fund Trader discount code is platinum5 — 5%
 - Offer: 25% off
 - Scope: 1-Phase Challenges
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/
+- Deal page: [https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/)
 
 ## Crypto Fund Trader discount code FAQ
 
@@ -69,9 +70,9 @@ Total deals tracked: **7**
 
 This repository mirrors every deal **Crypto Fund Trader** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/crypto-fund-trader/](https://propfirmdiscount.com/prop-firm/crypto-fund-trader/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/crypto-fund-trader-deals.json`
 
