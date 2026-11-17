@@ -1,4 +1,4 @@
-# Crypto Fund Trader Discount Codes
+# Crypto Fund Trader Discount Code & Deals History
 
 This dataset tracks historical deal observations for Crypto Fund Trader from PropFirmDiscount.com.
 

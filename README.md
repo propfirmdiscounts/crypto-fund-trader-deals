@@ -1,4 +1,4 @@
-# Crypto Fund Trader Discount Code & Deal History
+# Crypto Fund Trader Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Crypto Fund Trader discount code is platinum5 — 5% OFF, which can be applied on the checkout page anytime. The newest is "25% Off New 1-Phase Challenge".
 
@@ -7,7 +7,7 @@ As of November 2026, the verified Crypto Fund Trader discount code is platinum5 
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-14
 - Trustpilot: [4.2/5 (1112 reviews)](https://www.trustpilot.com/review/cryptofundtrader.com)
-- GitHub repository: [Crypto Fund Trader Deals Repository](https://github.com/propfirmdiscounts/crypto-fund-trader-deals)
+- GitHub repository: [Crypto Fund Trader Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/crypto-fund-trader-deals)
 - Activate: [Activate Crypto Fund Trader Discount Code](https://propfirmdiscount.com/go/cryptofundtrader)
 - Firm page: [Crypto Fund Trader Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/crypto-fund-trader/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -22,7 +22,7 @@ As of November 2026, the verified Crypto Fund Trader discount code is platinum5 
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Crypto Fund Trader Deal Page](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/)
 
-## Crypto Fund Trader Discount Code & Deals FAQ
+## Crypto Fund Trader Discount Code & Deals History FAQ
 
 **What is the Crypto Fund Trader discount code?**
 
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Crypto Fund Trader Deal History
+## Crypto Fund Trader Deals History
 
 Total deals tracked: **7**
 
@@ -66,7 +66,7 @@ Total deals tracked: **7**
 
 ---
 
-## About the Crypto Fund Trader Deals Dataset
+## About the Crypto Fund Trader Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Crypto Fund Trader** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -74,7 +74,7 @@ This repository mirrors every deal **Crypto Fund Trader** has published on PropF
 - Prop firm profile: [Crypto Fund Trader Profile](https://propfirmdiscount.com/prop-firm/crypto-fund-trader/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Crypto Fund Trader Deal Dataset: Field Definitions
+## Crypto Fund Trader Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
